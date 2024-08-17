@@ -16,7 +16,7 @@
 </div>
 
 
-<h2 text="center">Preprocessors:<h2/>
+<h2 align="center">Preprocessors:<h2/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=less,sass" />
