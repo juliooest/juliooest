@@ -5,6 +5,9 @@
 
 ![Júlio Narciso GitHub stats](https://github-readme-stats.vercel.app/api?username=Khai221&show_icons=true&theme=cobalt)
 
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221)](https://github.com/Khai221/github-readme-stats)
+
+
 <h2 align="center">Skills:<h2/>
 <div align="center" style="display: inline_block"><br/>
   <img align="center" alt"Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
