@@ -5,9 +5,6 @@
 
 ![Júlio Narciso GitHub stats](https://github-readme-stats.vercel.app/api?username=Khai221&show_icons=true&theme=cobalt)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221)](https://github.com/Khai221/github-readme-stats)
-
-
 <h2 align="center">Skills:<h2/>
 <div align="center" style="display: inline_block"><br/>
   <img align="center" alt"Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,12 +15,13 @@
   <img align="center" alt"CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-
 <h2 align="center">Preprocessors:<h2/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=less,sass" />
   </a>
 </p>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221&layout=compact)
 
 
