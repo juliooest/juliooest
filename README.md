@@ -16,8 +16,8 @@
 </div>
 
 
+<h2 text="center">Preprocessors:<h2/>
 <p align="center">
-  ### Preprocessors:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=less,sass" />
   </a>
