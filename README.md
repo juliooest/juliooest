@@ -1,6 +1,6 @@
-## Hi, i'm Júlio 🖐️
-
-### U can find me in
+## Hi, i'm Júlio 👋
+#### Front-end Developer passionate about creating interactive and user-friendly web experiences. I'm currently expanding my skills in Fullstack development.
+### U can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionarciso/)
 
 
