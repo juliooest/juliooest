@@ -18,7 +18,7 @@
 ### Preprocessors:
 <div style="display: inline_block"><br/>
   <img align="center" alt"SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt"LESS" src="![image](https://github.com/user-attachments/assets/971fbceb-cabf-4176-b407-8db4ac82e9f8)
+  <img align="center" alt"LESS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Less-Dark.svg
 " />
 </div>
 
