@@ -3,7 +3,10 @@
 ### U can find me in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionarciso/)
 
-![Júlio Narciso GitHub stats](https://github-readme-stats.vercel.app/api?username=Khai221&show_icons=true&theme=cobalt)
+<div style="display: flex">
+  ![Júlio Narciso GitHub stats](https://github-readme-stats.vercel.app/api?username=Khai221&show_icons=true&theme=cobalt)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221&layout=compact)
+</div>
 
 <h2 align="center">Skills:<h2/>
 <div align="center" style="display: inline_block"><br/>
@@ -22,6 +25,5 @@
   </a>
 </p>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221&layout=compact)
 
 
