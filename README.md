@@ -5,7 +5,7 @@
 
 
   ![Júlio Narciso GitHub stats](https://github-readme-stats.vercel.app/api?username=Khai221&show_icons=true&theme=cobalt)
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221&layout=)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221&layout=compact)
 
 
 <h2 align="center">Skills:<h2/>
