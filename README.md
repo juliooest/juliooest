@@ -1,5 +1,8 @@
 ## Hi, i'm Júlio 👋
-#### Front-end Developer passionate about creating interactive and user-friendly web experiences. I'm currently expanding my skills in Fullstack development.
+#### I'm a versatile Back-end Developer with a passion for building robust and scalable server-side applications. I specialize in Java and Spring Framework, where I create efficient APIs and backend services that power modern web applications. I'm currently expanding my Fullstack expertise with React and TypeScript to deliver seamless integration between front-end and back-end technologies.
+
+#### Additionally, I have strong front-end development skills, using methodologies like BEM and SMACSS, along with preprocessors such as SASS and LESS to ensure clean and maintainable code for user-friendly web interfaces.
+
 ### U can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionarciso/)
 
@@ -12,7 +15,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,typescript,react,html,css" />
   </a>
 </p>
 
