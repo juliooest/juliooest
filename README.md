@@ -39,8 +39,11 @@
 <h3 align="center">Cloud & Agile:<h3/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,scrum,kanban" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
+  <p align="center">
+  Learning AWS, Scrum, Kanban
+</p>
 </p>
 
 
