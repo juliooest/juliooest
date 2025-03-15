@@ -1,9 +1,5 @@
 ## Hi, I'm Júlio 👋
-#### I'm a versatile Back-end Developer with a passion for building robust and scalable server-side applications. I specialize in Java and Spring Framework, where I create efficient APIs and backend services that power modern web applications. I'm currently expanding my Fullstack expertise with React and TypeScript to deliver seamless integration between front-end and back-end technologies.
-
-#### Additionally, I have strong front-end development skills, using methodologies like BEM and SMACSS, along with preprocessors such as SASS and LESS to ensure clean and maintainable code for user-friendly web interfaces.
-
-#### I’m also experienced with relational databases like PostgreSQL and MySQL, and currently learning cloud technologies such as AWS. I apply Agile methodologies like Scrum and Kanban to ensure effective project management and team collaboration.
+#### I'm a cybersecurity student specializing in penetration testing and SOC analysis. I have a solid background in web technologies, including frameworks, and programming languages such as JavaScript, Java, and Python. Currently, I'm expanding my expertise by learning Assembly. My focus is on identifying vulnerabilities, securing systems, and monitoring cyber threats to enhance digital security. I'm actively learning about ethical hacking, incident response, and threat intelligence to strengthen my skills in the field.
 
 ### U can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionarciso/)
