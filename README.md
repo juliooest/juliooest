@@ -9,9 +9,9 @@
   ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khai221&layout=compact)
 
 
-<h2 align="center">Skills:<h2/>
-  
-<h3 align="center">programming languages:<h3/>
+<h2 align="center">Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -27,29 +27,56 @@
   </a>
 </p>
 
-<h3 align="center">Front-end Skills:<h3/>
+<h3 align="center">Cybersecurity</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,html,css,sass,less" />
+  <strong>Penetration Testing</strong> 🛡️ &nbsp;&nbsp;
+  <strong>SOC Analysis</strong> 🔥 &nbsp;&nbsp;
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  </a>
+  <a href="https://www.wireshark.org/">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  </a>
+  <a href="https://portswigger.net/burp">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
   </a>
 </p>
 
-<h3 align="center">Database Skills:<h3/>
+<h3 align="center">Frameworks & Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  <a href="https://spring.io/">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
 </p>
 
-<h3 align="center">Cloud & Agile:<h3/>
+<h3 align="center">Databases</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
-  <p align="center">
-  Learning AWS, Scrum, Kanban
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
 </p>
+
+<h3 align="center">Cloud & DevOps</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
 </p>
+
+
+
 
 
 
