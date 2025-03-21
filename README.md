@@ -1,5 +1,5 @@
 ## Hi, I'm Júlio 👋
-#### Estudante de Defesa Cibernética | Analista de Vendas na Revenda Ambev Grandourados | Futuro Pentester
+#### Estudante de Defesa Cibernética | Futuro Pentester
 Atualmente estudando segurança ofensiva na TryHackMe. Tenho conhecimento sólido em Python, Java, TypeScript e desenvolvimento web, utilizando bibliotecas como React.js e frameworks como Vue.js. Também estou explorando linguagens de baixo nível como C e Assembly.
 
 ### U can find me at
