@@ -30,13 +30,8 @@ Atualmente estudando segurança ofensiva na TryHackMe. Tenho conhecimento sólid
 
 <h3 align="center">Cybersecurity</h3>
 <p align="center">
-  <strong>Penetration Testing</strong> 🛡️ &nbsp;&nbsp;
-  <strong>SOC Analysis</strong> 🔥 &nbsp;&nbsp;
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  </a>
-  <a href="https://www.wireshark.org/">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   </a>
   <a href="https://portswigger.net/burp">
     <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
@@ -45,9 +40,6 @@ Atualmente estudando segurança ofensiva na TryHackMe. Tenho conhecimento sólid
 
 <h3 align="center">Frameworks & Tools</h3>
 <p align="center">
-  <a href="https://spring.io/">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  </a>
   <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
@@ -66,11 +58,8 @@ Atualmente estudando segurança ofensiva na TryHackMe. Tenho conhecimento sólid
   </a>
 </p>
 
-<h3 align="center">Cloud & DevOps</h3>
+<h3 align="center">DevOps</h3>
 <p align="center">
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
