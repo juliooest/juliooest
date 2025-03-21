@@ -1,5 +1,6 @@
 ## Hi, I'm Júlio 👋
-#### I'm a cybersecurity student specializing in penetration testing and SOC analysis. I have a solid background in web technologies, including frameworks, and programming languages such as JavaScript, Java, and Python. Currently, I'm expanding my expertise by learning Assembly. My focus is on identifying vulnerabilities, securing systems, and monitoring cyber threats to enhance digital security. I'm actively learning about ethical hacking, incident response, and threat intelligence to strengthen my skills in the field.
+#### Estudante de Defesa Cibernética | Analista de Vendas na Revenda Ambev Grandourados | Futuro Pentester
+Atualmente estudando segurança ofensiva na TryHackMe. Tenho conhecimento sólido em Python, Java, TypeScript e desenvolvimento web, utilizando bibliotecas como React.js e frameworks como Vue.js. Também estou explorando linguagens de baixo nível como C e Assembly.
 
 ### U can find me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julionarciso/)
