@@ -3,9 +3,8 @@ Cybersecurity student focused on pentesting, ethical hacking, and Capture The Fl
 
 
 
-![Júlio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliooest&show_icons=true&theme=dark)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliooest&layout=compact&theme=dark)
-
+![Júlio GitHub stats](https://github-readme-stats.vercel.app/api?username=juliooest&show_icons=true&bg_color=000000&text_color=00ff00&icon_color=00ff00)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliooest&layout=compact&bg_color=000000&text_color=00ff00)
 
 
 
