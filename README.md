@@ -16,7 +16,7 @@
 > Um guia prático e direto ao ponto pra quem quer começar na **Cybersegurança** através de **CTFs**.   
 > 👉 fundamentos claros, setup de ambiente, labs no TryHackMe e HackTheBox com foco total em prática.
 
-> My practical beginner's guide to Cybersecurity, focused on Capture the Flag (CTF) challenges.**
+> My practical beginner's guide to Cybersecurity, focused on Capture the Flag (CTF) challenges.
 > Clear fundamentals, environment setup, and hands-on labs on TryHackMe and Hack The Box with a strong focus on practice.
 
 ---
