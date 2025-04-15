@@ -1,7 +1,7 @@
-<p align="center">
+<h2 align="center">
   🇧🇷 Estudante de Cybersegurança focado em pentests e desafios CTF (Capture the Flag)
   us Cybersecurity Student focusing on pentesting & (Capture the Flag) CTF's challenges<br>
-</p>
+</h2>
 
 ---
 
