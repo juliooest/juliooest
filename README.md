@@ -7,8 +7,8 @@
 
 ---
 
-### 🇧🇷 Meu guia prático de entrada na Cybersegurança focado em CTF's
-### us My practical entry-level guide to Cybersecurity focused on CTFs
+#### 🇧🇷 Meu guia prático de entrada na Cybersegurança focado em CTF's
+#### us My practical entry-level guide to Cybersecurity focused on CTFs
 
 
 [![Repo](https://img.shields.io/badge/🔥%20intro--cybersecurity--ctf-000000?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/juliooest/intro-cybersecurity-ctf)
