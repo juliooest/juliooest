@@ -5,7 +5,7 @@
   <br/>
   currently working with <span style="color: #00ff00;">AI agent development</span> and as a <span style="color: #00ff00;">Python developer</span> at <span style="color: #00ff00;">AmBev Grandourados</span>.
   <br/><br/>
-  i'm a <span style="color: #00ff00;">cybersecurity enthusiast</span> and student, currently studying <span style="color: #00ff00;">Cybersecurity at FIAP</span> and following the <span style="color: #00ff00;">Penetration Tester path</span> on <span style="color: #00ff00;">Hack The Box</span>.
+  i'm a student and <span style="color: #00ff00;">cybersecurity enthusiast</span>, currently studying <span style="color: #00ff00;">Cybersecurity at FIAP</span> and following the <span style="color: #00ff00;">Penetration Tester path</span> on <span style="color: #00ff00;">Hack The Box</span>.
 </div>
 
 <hr style="border-color: #00ff00;"/>
