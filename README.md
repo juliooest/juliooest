@@ -8,6 +8,8 @@
   i'm a student and <span style="color: #00ff00;">cybersecurity enthusiast</span>, currently studying <span style="color: #00ff00;">Cybersecurity at FIAP</span> and following the <span style="color: #00ff00;">Penetration Tester path</span> on <span style="color: #00ff00;">Hack The Box</span>.
 </div>
 
+Linkedin: https://www.linkedin.com/in/julionarciso/
+
 <hr style="border-color: #00ff00;"/>
 
 <h4 style="color: #00ff00;">[pt-br] meu guia prático de entrada na Cybersegurança focado em CTF's </br>
