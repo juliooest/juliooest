@@ -26,7 +26,7 @@ Linkedin: https://www.linkedin.com/in/julionarciso/
 
 <blockquote style="color: #ffffff;">
   my practical beginner's guide to <strong style="color: #00ff00;">Cybersecurity</strong>, focused on <strong style="color: #00ff00;">Capture the Flag (CTF)</strong> challenges.<br>
-  clear fundamentals, environment setup, and hands-on labs on TryHackMe and Hack The Box with a strong focus on practice.
+  👉 clear fundamentals, environment setup, and hands-on labs on TryHackMe and Hack The Box with a strong focus on practice.
 </blockquote>
 
 <hr style="border-color: #00ff00;"/>
