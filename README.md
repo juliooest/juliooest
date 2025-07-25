@@ -11,8 +11,6 @@
 Linkedin: https://www.linkedin.com/in/julionarciso/
 
 <h3>hack the box</h3>
-<a href="https://app.hackthebox.com/profile/2347196">
-  <img src="https://www.hackthebox.com/badge/image/2347196" width="200" />
-</a>
+[![HTB Profile](https://img.shields.io/badge/HackTheBox-juliooestreich-9cf?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2347196)
 
 <br/>
