@@ -10,7 +10,7 @@
 
 Linkedin: https://www.linkedin.com/in/julionarciso/
 
-<h3 style="color: #00ff00;">📊 hack the box</h3>
+<h5 style="color: #00ff00;">hack the box</h5>
 
 ![Hack The Box](https://www.hackthebox.com/badge/image/2347196)
 
