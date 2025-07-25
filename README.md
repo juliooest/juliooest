@@ -10,14 +10,14 @@
 
   <p>
     <span style="color: #00ff00;">CTF player</span>, currently studying
-    <span style="color: #00ff00;">Cybersecurity at FIAP</span> and following the
-    <span style="color: #00ff00;">Penetration Tester path</span> on
-    <span style="color: #00ff00;">Hack The Box</span>.
+    <span style="color: #00ff00;">cybersecurity at FIAP</span> and following the
+    <span style="color: #00ff00;">penetration tester path</span> on
+    <span style="color: #00ff00;">hack the box</span>.
   </p>
 </div>
 
 
-Linkedin: https://www.linkedin.com/in/julionarciso/
+linkedin: https://www.linkedin.com/in/julionarciso/
 
 <h3>hack the box - stats</h3>
 <img src="https://www.hackthebox.com/badge/image/2347196" width="300" /
