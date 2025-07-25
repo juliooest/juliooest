@@ -4,7 +4,7 @@
   </h3>
 
   <p>
-    currently working as <span style="color: #00ff00; font-weight: bold;">Innovation Analyst Jr.</span> at
+    currently working as <span style="color: #00ff00; font-weight: bold;">Innovation Analyst Jr</span> at
     <span style="color: #00ff00; font-weight: bold;">Cervejaria AmBev – Grandourados</span>.
   </p>
 
