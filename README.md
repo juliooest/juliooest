@@ -1,12 +1,21 @@
-<div style="color: #ffffff; background-color: #000000; font-family: 'Courier New', monospace;">
-  <h3 style="color: #00ff00;">
-    hi i'm Júlio
+<div style="color: #ffffff; background-color: #000000; font-family: 'Courier New', monospace; padding: 20px;">
+  <h3 style="color: #00ff00; margin-top: 0;">
+    hi, i'm Júlio
   </h3>
-  <br/>
-  currently working as <bold><span style="color: #00ff00;">Inovation Analyst JR</span><bold/> at <span style="color: #00ff00;">Cervejaria AmBev Grandourados</span>.
-  <br/><br/>
-  <span style="color: #00ff00;">CTF Player</span>, currently studying <span style="color: #00ff00;">Cybersecurity at FIAP</span> and following the <span style="color: #00ff00;">Penetration Tester path</span> on <span style="color: #00ff00;">hackthebox</span>.
+
+  <p>
+    currently working as <span style="color: #00ff00; font-weight: bold;">Innovation Analyst Jr.</span> at
+    <span style="color: #00ff00; font-weight: bold;">Cervejaria AmBev – Grandourados</span>.
+  </p>
+
+  <p>
+    <span style="color: #00ff00;">CTF player</span>, currently studying
+    <span style="color: #00ff00;">Cybersecurity at FIAP</span> and following the
+    <span style="color: #00ff00;">Penetration Tester path</span> on
+    <span style="color: #00ff00;">Hack The Box</span>.
+  </p>
 </div>
+
 
 Linkedin: https://www.linkedin.com/in/julionarciso/
 
