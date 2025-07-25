@@ -10,12 +10,8 @@
 
 Linkedin: https://www.linkedin.com/in/julionarciso/
 
-<h3 style="color: #00ff00;">📊 Stats</h3>
+<h3 style="color: #00ff00;">📊 hack the box</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=juliooest&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00ff00&title_color=00ff00" alt="Júlio GitHub stats"/>
+![Hack The Box](https://www.hackthebox.com/badge/image/2347196)
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliooest&layout=compact&bg_color=000000&text_color=ffffff&title_color=00ff00" alt="Most used languages"/>
-
-<hr style="border-color: #00ff00;"/>
