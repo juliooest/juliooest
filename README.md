@@ -4,15 +4,14 @@
   </h3>
 
   <p>
-    currently working as <span style="color: #00ff00; font-weight: bold;">Innovation Analyst Jr</span> at
-    <span style="color: #00ff00; font-weight: bold;">Cervejaria AmBev – Grandourados</span>.
+  Cybersecurity student specializing in web exploitation.
+  </br>
+  Currently pursuing a degree in Cybersecurity at FIAP.
   </p>
 
   <p>
-    <span style="color: #00ff00;">CTF player</span>, currently studying
-    <span style="color: #00ff00;">cybersecurity at FIAP</span> and following the
-    <span style="color: #00ff00;">penetration tester path</span> on
-    <span style="color: #00ff00;">hack the box</span>.
+    cybersecurity student focusing on web exploitation
+    currently studying cybersecurity at FIAP.
   </p>
 </div>
 
