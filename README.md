@@ -4,7 +4,7 @@
   </h3>
 
   <p>
-  Cybersecurity student specializing in web exploitation.
+  Cybersecurity student specializing in cloud and web exploitation.
   </br>
   Currently pursuing a degree in Cybersecurity at FIAP.
   </p>
