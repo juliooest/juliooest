@@ -8,11 +8,6 @@
   </br>
   Currently pursuing a degree in Cybersecurity at FIAP.
   </p>
-
-  <p>
-    cybersecurity student focusing on web exploitation
-    currently studying cybersecurity at FIAP.
-  </p>
 </div>
 
 
