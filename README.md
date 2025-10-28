@@ -4,7 +4,7 @@
   </h3>
 
   <p>
-  Cybersecurity student at FIAP, specializing in defensive operations (Blue Team) and Cloud Security.
+  Cybersecurity student at FIAP, specializing in Cloud Security.
   </p>
 </div>
 
