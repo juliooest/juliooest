@@ -1,5 +1,5 @@
 <div style="color: #ffffff; background-color: #000000; font-family: 'Courier New', monospace; padding: 20px;">
-  <img src="(https://i.pinimg.com/1200x/76/e1/56/76e15604de879109382603b4d7825d82.jpg)" alt="Descrição da imagem">
+  <img src="https://i.pinimg.com/1200x/76/e1/56/76e15604de879109382603b4d7825d82.jpg" alt="Descrição da imagem">
   <h3 style="color: #00ff00; margin-top: 0;">
     hi, i'm Júlio
   </h3>
