@@ -5,6 +5,3 @@
   https://traxsec.vercel.app/
   </p>
 </div>
-
-
-linkedin: https://www.linkedin.com/in/julionarciso/
