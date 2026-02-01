@@ -4,4 +4,7 @@
   </br>
   https://traxsec.vercel.app/
   </p>
+  <p>
+    dc: @juliooest
+  </p>
 </div>
