@@ -1,6 +1,6 @@
 <div style="color: #ffffff; background-color: #000000; font-family: 'Courier New', monospace; padding: 20px;">
   <p>
-  <h3><strong>into low-level systems, AD internals, and web.</strong></h3>
+  <h3><strong>into low-level systems, web3 and AI.</strong></h3>
 </br>
   </p>
   <p>
